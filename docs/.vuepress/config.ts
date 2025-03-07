@@ -21,5 +21,5 @@ export default defineUserConfig({
 
     lang: 'zh-CN',
     title: '一笔清泉字',
-    description: ' ',
+    description: ' up! up! up! ',
 })
